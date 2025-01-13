@@ -1,6 +1,6 @@
 // Replace with your Google Gemini API endpoint and key
 const GOOGLE_GEMINI_API_KEY = "AIzaSyByhvSz52Q0znHLepxvSUifAcwzcA9E90M"; // Add your API Key
-const GEMINI_API_URL = "https://api.generativeai.google/v1beta2/chat"; // Sample endpoint
+const GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5"; // Sample endpoint
 
 // Select DOM elements
 const chatMessages = document.getElementById("chatMessages");
